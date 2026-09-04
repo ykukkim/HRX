@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the publication corresponding to your analysis."
+title: "H-reflex and gait adaptation analysis"
+type: software
+authors:
+  - family-names: Kim
+    given-names: Yong Kuk
+preferred-citation:
+  type: article
+  title: "Adaptive gait responses to varying weight-bearing conditions: Inferences from gait dynamics and H-reflex magnitude"
+  authors:
+    - family-names: Kim
+      given-names: Yong Kuk
+    - family-names: Gwerder
+      given-names: Michelle
+    - family-names: Taylor
+      given-names: William R.
+    - family-names: Baur
+      given-names: Heiner
+    - family-names: Singh
+      given-names: Navrag B.
+  journal: Experimental Physiology
+  volume: 109
+  issue: 5
+  start: 754
+  end: 765
+  year: 2024
+  doi: 10.1113/EP091492

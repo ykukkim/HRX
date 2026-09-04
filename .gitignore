@@ -1,0 +1,53 @@
+.DS_Store
+._*
+.idea/
+*.asv
+*.autosave
+*~
+
+# MATLAB and study data
+*.mat
+*.c3d
+*.fig
+*.mex*
+
+# R session and project state
+.RData
+.Rhistory
+.Rproj.user/
+
+# Generated tables, plots and logs
+*.csv
+*.xlsx
+*.xls
+*.png
+*.tif
+*.tiff
+*.log
+Results/
+outputs/
+
+# Vendor SDKs and bundled third-party toolboxes
+*.dll
+*.lib
+*.pdb
+HM/btk/
+HM/btkmac/
+EMG/Functions/emgGO/
+EMG/Functions/fieldtrip/
+EMG/Functions/SPM/
+Gait/Functions/Statistical Parameter Mappingalt/
+Gait/Functions/MinBoundSuite/
+
+# Historical and unfinished code
+**/backup/
+**/_Archive/
+**/_Arhcive/
+**/OldCodes/
+**/_NotUsed/
+HM/Without_StimulusIntensity/
+Gait/Functions/Pien/
+Gait/Functions/Resilience/
+Gait/Functions/Lyapunov/
+HM/untitled.m
+H-refelx.txt
